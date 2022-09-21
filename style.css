@@ -2,13 +2,13 @@ body {
     
 }
 
-#banner{
+#foto {
     width: 100%;
 }
 
 .principal{ 
     background: #cccccc
-    pedding: 30px;
+    pedding: 10px;
 }
 
 .titulo-principal{
@@ -34,16 +34,16 @@ em strong {
     font-style: italic 
 }
 
-.beneficios {
-    background: #ffffff
-    padding: 20px;
-}
 
 ul {
     display:inline-block
     vertical-aling: top;
-    width: 20%
-    mardin-right: 15%;
+}
+
+
+.beneficios {
+    background: #ffffff
+    padding: 20px;
 }
 
 .imagembeneficios {
