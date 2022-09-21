@@ -1,5 +1,5 @@
 body {
-    
+    background: #cccccc
 }
 
 #foto {
@@ -28,7 +28,7 @@ p {
 }
 
 em strong {
-    color:#ffooo
+    color: #ff0000
 }
 
 .itens`{
