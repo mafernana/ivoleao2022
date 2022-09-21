@@ -19,7 +19,7 @@ body {
     style="text-align: center
 }
 
-p{
+p {
     text-align: center 
 }
 
@@ -27,22 +27,19 @@ p{
     font-size: 20px;
 }
 
-em strong{
+em strong {
     color:#ffooo
 }
 .itens`{
     font-style: italic 
 }
 
-.beneficios{
+.beneficios {
     background: #ffffff
     padding: 20px;
 }
 
-
-}
-
-ul{
+ul {
     display:inline-block
     vertical-aling: top;
     width: 20%
