@@ -35,12 +35,16 @@ em strong {
 }
 
 .beneficios {
-    background: #ffffff
+    background: #FFFFFF;
     padding: 20px;
 }
 
+h2 {
+    text-align: center;
+}
+
 ul {
-    display:inline-block;
+    display: inline-block;
     vertical-align: top;
      width: 20%;
     margin-right: 15%;
