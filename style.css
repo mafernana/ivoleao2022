@@ -2,14 +2,13 @@ body {
     background: #cccccc
 }
 
-#foto {
-    width: 100%;
-}
-
 .principal{ 
     background: #cccccc
     pedding: 10px;
 }
+
+#foto {
+    width: 100%;
 
 .titulo-principal{
     padding-left: 20px ;
