@@ -80,6 +80,11 @@ nav a:hover {
     margin-top: 10px;
 }
 
+.foto-produstos {
+    width: 350px;
+    height: 250px;
+}
+
 footer{
     text-align: center;
     background: url("bg.jpg");
