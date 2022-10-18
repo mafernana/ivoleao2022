@@ -3,6 +3,11 @@ header {
     padding: 20px 0;
 }
 
+.logo {
+    width: 350px;
+    height: 350px;
+}
+
 .caixa {
     position: relative;
     width: 940px;
@@ -83,7 +88,7 @@ nav a:hover {
 .foto-produstos {
     width: 350px;
     height: 250px;
-}
+}o
 
 footer{
     text-align: center;
