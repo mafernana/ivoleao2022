@@ -17,7 +17,7 @@ header {
 nav {
     position: absolute;
     top: 250px;
-    right: 0;
+    right: 100;
 }
 
 nav li {
