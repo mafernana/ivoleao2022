@@ -22,7 +22,6 @@ nav {
     position: absolute;
     top: 130px;
     right: 0;
-
 }
 
 nav li {
@@ -76,7 +75,6 @@ nav a:hover {
  .produtos h2 {
     font-size: 30px;
     font-weight: bold;
-
  }
 
  .produto-descriçao {
@@ -97,3 +95,5 @@ nav a:hover {
 
 footer{
     text-align: center;
+    display: block;
+    }
