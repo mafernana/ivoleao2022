@@ -10,14 +10,8 @@ header {
 
 .caixa {
     position: relative;
-    width: 940px;
+    width: 400px;
     margin: 0 auto;
-}
-
-nav {
-    position: absolute;
-    top: 250px;
-    right: 0;
 }
 
 nav li {
@@ -26,15 +20,15 @@ nav li {
 }
 
 nav a {
-    text-align: upperclase ;
-    color: #000000;
-    font-weight: bold ;
+    text-transform: uppercase;
+    color: black;
+    font-weight: bold;
     font-size: 22px;
-    text-decoration: none;
-}
+    text-decoration: none;    
+ }
 
-nav a:hover { 
-    color: #c78c19;
+nav a:hover {
+    color: rgb(255, 136, 0);
     text-decoration: underline;
 }
 
