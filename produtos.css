@@ -1,3 +1,7 @@
+body {
+    font-family: 'Nunito', sans-serif; 
+  }
+
 header {
     background-color: #bbbbbb;
     padding: 20px 0;
