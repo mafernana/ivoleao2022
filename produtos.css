@@ -94,9 +94,15 @@ nav a:hover {
  }
 
 footer{
-    text-align: center;
+    text-align: center; 
     background: #000000;
 }
+
+.produtos footer{
+    bonder-color:#000000
+}
+    
+
 
 
 
