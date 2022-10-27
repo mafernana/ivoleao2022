@@ -33,6 +33,10 @@ nav a:hover {
 
 /*HOME*/
 
+h1 {
+    text-align: center;
+}
+
 .principal{ 
     background: #cccccc;
     padding: 10px;
