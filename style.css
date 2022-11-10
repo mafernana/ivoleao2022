@@ -104,7 +104,9 @@ footer{
       margin: 20px 0 0;
 }
 
-
+main {
+    width: 940px
+    margin: 0 auto;
 
 
 
